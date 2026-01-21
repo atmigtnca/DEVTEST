@@ -1,0 +1,7 @@
+i{
+  "name": "devtest",
+  "compatibility_date": "2026-01-21",  // 이 날짜를 박제해두고 잊으시면 됩니다.
+  "assets": {
+    "directory": "./dist"            // 아까 입력했던 assets 경로도 여기에 저장됩니다.
+  }
+}
